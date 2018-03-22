@@ -1,1 +1,3 @@
-# Exercises-Native-App-Studio
+# Exercises Native App Studio
+
+Dylan Wellner
